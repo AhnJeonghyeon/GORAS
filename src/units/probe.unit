@@ -1,0 +1,43 @@
+# yaml format
+
+- id: 84
+  name: probe
+  cargo_size: 1
+  attributes: light
+  attributes: mechanical
+  movement_speed: 2.8125
+  armor: 0.0
+  weapons:
+    - type: ground
+      damage: 5.0
+      attacks: 1
+      range: 0.10009765625
+      speed: 1.5
+  mineral_cost: 50
+  vespene_cost: 0
+  actions:
+    - id: 4
+      name: stop
+      require:
+          target: none
+
+    - id: 16
+      name: move
+      require:
+          target: point
+          pos_x: 0
+          pos_y: 0
+
+    #gather is consist of MULEgater and MULEreturn
+    - id: 166
+      name: gather #gather MULE
+      require:
+          target: unit
+          unit_tag: 0
+
+    - id: 881
+      name: build_pylon
+      require:
+          target: point
+          pos_x: 0
+          pos_y: 0

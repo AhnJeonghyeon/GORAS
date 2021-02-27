@@ -1,0 +1,32 @@
+All tests are done Nov/06/2017.
+Tests are executed on Mac OS X 10.12.6
+Using python 3.5.3, pyzmq 16.0.2
+
+- recv_msg_total :      'Received msg vs. Total msg'
+                            * Total msg per dummy : 10 ~ 100 with interval 10
+                            * Dummy : 3
+                            * Sleep Time per loop : 0.1s
+
+- exec_time_total :     'Execution Time vs. Total msg'
+                            * Total msg per dummy : 10 ~ 100 with interval 10
+                            * Dummy : 3
+                            * Sleep Time per loop : 0.1s
+
+- recv_msg_dummy :      'Received msg vs. Dummies #'
+                            * Total msg per dummy : 100
+                            * Dummy : 3 ~ 10 with interval 1
+                            * Sleep Time per loop : 0.1s
+                        'Execution Time vs. Dummies #'
+                            * Total msg per dummy : 100
+                            * Dummy : 3 ~ 10 with interval 1
+                            * Sleep Time per loop : 0.1s
+
+- recv_msg_sleep :      'Received msg vs. Sleep Time'
+                            * Total msg per dummy : 100
+                            * Dummy : 3
+                            * Sleep Time per loop : 0.1s ~ 1.0s with interval 0.1s
+
+- recv_msg_sleep_rand : 'Received msg vs. Dummy # with Randomized Sleep Time'
+                            * Total msg per dummy : 100
+                            * Dummy : 3, 5, 10
+                            * Sleep Time per loop : Random value with range 0.1s ~ 1.0s

@@ -1,0 +1,15 @@
+{
+	"goal": "gather 100 minerals",
+	"trigger": [],
+	"satisfy": [
+		{"type": "type2", "noun": "i", "verb": "have", "objective": "100 minerals"}
+	],
+	"precedent": [],
+	"require": [
+			[
+				{"name": "move", "target": "point", "pos_x": 10, "pos_y": 10},
+				{"name": "mulegater", "target": "unit", "unit_tag": "list_mineral_tag[0]"}
+			],
+		{}
+	]
+}

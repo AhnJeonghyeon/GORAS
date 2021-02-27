@@ -1,0 +1,10 @@
+dummycore3	is telling to everyone dummycore3/ Sent Time: 2017-11-08 20:48:38.322228/ Msg: HI #1
+dummycore3	is telling to everyone dummycore3/ Sent Time: 2017-11-08 20:48:39.325098/ Msg: HI #2
+dummycore3	is telling to everyone dummycore3/ Sent Time: 2017-11-08 20:48:40.328453/ Msg: HI #3
+dummycore3	is telling to everyone dummycore3/ Sent Time: 2017-11-08 20:48:41.333179/ Msg: HI #4
+dummycore3	is telling to everyone dummycore3/ Sent Time: 2017-11-08 20:48:42.339024/ Msg: HI #5
+dummycore3	is telling to everyone dummycore3/ Sent Time: 2017-11-08 20:48:43.343270/ Msg: HI #6
+dummycore3	is telling to everyone dummycore3/ Sent Time: 2017-11-08 20:48:44.345823/ Msg: HI #7
+dummycore3	is telling to everyone dummycore3/ Sent Time: 2017-11-08 20:48:45.349961/ Msg: HI #8
+dummycore3	is telling to everyone dummycore3/ Sent Time: 2017-11-08 20:48:46.352274/ Msg: HI #9
+dummycore3	is telling to everyone dummycore3/ Sent Time: 2017-11-08 20:48:47.356797/ Msg: HI #10

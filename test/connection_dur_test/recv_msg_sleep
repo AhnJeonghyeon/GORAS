@@ -1,0 +1,70 @@
+{
+    "dummy#": 10,
+    "recvmsg#": 9917,
+    "test#": 1,
+    "time": 22.559648036956787,
+    "totalmsg#": 10000
+}
+{
+    "dummy#": 10,
+    "recvmsg#": 9912,
+    "test#": 2,
+    "time": 32.5663001537323,
+    "totalmsg#": 10000
+}
+{
+    "dummy#": 10,
+    "recvmsg#": 9919,
+    "test#": 3,
+    "time": 42.55259394645691,
+    "totalmsg#": 10000
+}
+{
+    "dummy#": 10,
+    "recvmsg#": 9914,
+    "test#": 4,
+    "time": 52.59523606300354,
+    "totalmsg#": 10000
+}
+{
+    "dummy#": 10,
+    "recvmsg#": 9921,
+    "test#": 5,
+    "time": 62.604459047317505,
+    "totalmsg#": 10000
+}
+{
+    "dummy#": 10,
+    "recvmsg#": 9916,
+    "test#": 6,
+    "time": 72.60644817352295,
+    "totalmsg#": 10000
+}
+{
+    "dummy#": 10,
+    "recvmsg#": 9920,
+    "test#": 7,
+    "time": 82.62400603294373,
+    "totalmsg#": 10000
+}
+{
+    "dummy#": 10,
+    "recvmsg#": 9908,
+    "test#": 8,
+    "time": 92.58737206459045,
+    "totalmsg#": 10000
+}
+{
+    "dummy#": 10,
+    "recvmsg#": 9922,
+    "test#": 9,
+    "time": 102.61556005477905,
+    "totalmsg#": 10000
+}
+{
+    "dummy#": 10,
+    "recvmsg#": 9924,
+    "test#": 10,
+    "time": 112.63918495178223,
+    "totalmsg#": 10000
+}

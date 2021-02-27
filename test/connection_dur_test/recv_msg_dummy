@@ -1,0 +1,85 @@
+{
+    "dummy#": 3,
+    "recvmsg#": 891,
+    "test#": 1,
+    "time": 15.402483940124512,
+    "totalmsg#": 900
+}
+{
+    "dummy#": 4,
+    "recvmsg#": 1586,
+    "test#": 2,
+    "time": 16.40753698348999,
+    "totalmsg#": 1600
+}
+
+{
+    "dummy#": 5,
+    "recvmsg#": 2481,
+    "test#": 3,
+    "time": 17.460325002670288,
+    "totalmsg#": 2500
+}
+{
+    "dummy#": 6,
+    "recvmsg#": 3567,
+    "test#": 4,
+    "time": 18.435604095458984,
+    "totalmsg#": 3600
+}
+{
+    "dummy#": 7,
+    "recvmsg#": 4859,
+    "test#": 5,
+    "time": 19.475893020629883,
+    "totalmsg#": 4900
+}
+{
+    "dummy#": 8,
+    "recvmsg#": 6350,
+    "test#": 6,
+    "time": 20.487574100494385,
+    "totalmsg#": 6400
+}
+{
+    "dummy#": 9,
+    "recvmsg#": 8026,
+    "test#": 7,
+    "time": 21.57277512550354,
+    "totalmsg#": 8100
+}
+{
+    "dummy#": 10,
+    "recvmsg#": 9909,
+    "test#": 8,
+    "time": 22.57557702064514,
+    "totalmsg#": 10000
+}
+{
+    "dummy#": 20,
+    "recvmsg#": 39643,
+    "test#": 9,
+    "time": 32.91819190979004,
+    "totalmsg#": 40000
+}
+{
+    "dummy#": 50,
+    "recvmsg#": 247504,
+    "test#": 10,
+    "time": 65.1805899143219,
+    "totalmsg#": 250000
+}
+{
+    "dummy#": 80,
+    "recvmsg#": 634264,
+    "test#": 11,
+    "time": 97.88112306594849,
+    "totalmsg#": 640000
+}
+{
+    "dummy#": 100,
+    "recvmsg#": 990254,
+    "test#": 12,
+    "time": 126.37455201148987,
+    "totalmsg#": 1000000
+}
